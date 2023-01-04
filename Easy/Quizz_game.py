@@ -4,7 +4,7 @@ playing = input("Are you REEEEEAAAAAAAADYYYYYYYYY!? ")
 
 if playing.upper() != "yes":
     quit()
-
+else:
 print("Let's GOOOOOOO!")    
 score = 0
 
